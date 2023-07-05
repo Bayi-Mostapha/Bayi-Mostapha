@@ -8,7 +8,7 @@
 <br>
 🎓Computer science student.
 <br>
-💻Currently learning web develepoment.
+💻Currently learning full stack web develepoment.
 <br>
 ✨Aspiring software engineer and full stack web developer.
 <br>
