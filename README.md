@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓 I'm a 19yo Computer science student from Morocco <img src="https://hatscripts.github.io/circle-flags/flags/ma.svg" width="17"><br>
+🎓 I'm a 20yo Big Data and cloud computing student
+Based in Morocco, Mohammedia <img src="https://hatscripts.github.io/circle-flags/flags/ma.svg" width="17"><br>
 💻 I'm Currently learning full stack web development.<br>
 ✨ Aspiring software engineer and full stack web developer.<br>
 
