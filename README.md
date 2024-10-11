@@ -1,6 +1,6 @@
 # 💫 About Me:
-🎓 I'm a 20yo Big Data and cloud computing student.<br>
-📍Based in Morocco, Mohammedia.<br>
+🎓 I'm a 20yo Big Data and cloud computing engineering student and a full stack developer.<br>
+📍 Based in Morocco, Mohammedia.<br>
 
 # 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostapha-bayi) 
