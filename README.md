@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm a 20yo Big Data and cloud computing engineering student at ENSET Mohammedia and a full stack developer.<br>
+🎓I'm a 20yo Big Data and cloud computing engineering student and a full stack web developer.<br>
 📍 Based in Morocco, Mohammedia.<br>
 
 # 🌐 Contact:
